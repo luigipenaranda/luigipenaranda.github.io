@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Luigi's Blog - Updates</title><link href="/" rel="alternate"/><link href="/feeds/updates.atom.xml" rel="self"/><id>/</id><updated>2025-11-16T18:00:00-06:00</updated><entry><title>Testing My Publishing Workflow</title><link href="/en/2025/testing-my-publishing-workflow.html" rel="alternate"/><published>2025-11-16T18:00:00-06:00</published><updated>2025-11-16T18:00:00-06:00</updated><author><name>Luigi Peñaranda</name></author><id>tag:None,2025-11-16:/en/2025/testing-my-publishing-workflow.html</id><content type="html">&lt;p&gt;This is a test post to make sure my new publishing script works!&lt;/p&gt;
-&lt;p&gt;If you're reading this, it means I successfully:
-- Wrote a post in TextEdit
-- Ran my publish script
-- Updated my live blog&lt;/p&gt;
-&lt;p&gt;Exciting times ahead!&lt;/p&gt;</content><category term="Updates"/></entry></feed>

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Luigi's Blog - Thoughts</title><link href="/" rel="alternate"/><link href="/feeds/thoughts.atom.xml" rel="self"/><id>/</id><updated>2025-11-16T10:00:00-06:00</updated><entry><title>My First Post</title><link href="/en/2025/my-first-post.html" rel="alternate"/><published>2025-11-16T10:00:00-06:00</published><updated>2025-11-16T10:00:00-06:00</updated><author><name>Luigi Peñaranda</name></author><id>tag:None,2025-11-16:/en/2025/my-first-post.html</id><content type="html">&lt;p&gt;This is my first blog post in English! &lt;/p&gt;
-&lt;p&gt;Today I'm setting up my personal blog with Pelican. It feels good to have my own space on the internet.&lt;/p&gt;
-&lt;p&gt;I'm excited to start writing daily reflections here.&lt;/p&gt;</content><category term="Thoughts"/></entry></feed>
